@@ -1,0 +1,5 @@
+rencana belajar saya
+membagi waktu kerja menjadi 2
+kemudian 50% digunakan untuk belajar dan persiapan sertifikasi
+sisa waktunya untuk belajar ci/cd
+untuk saat ini, kita belajar guthub dulu
